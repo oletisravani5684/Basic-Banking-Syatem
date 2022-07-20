@@ -1,1 +1,1 @@
-# Basic-Banking-Syatem
+# Basic-Banking-System
